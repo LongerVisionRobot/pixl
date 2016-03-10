@@ -17,5 +17,9 @@ This GitHub repository is only made for keeping a copy of productions files with
 ## Contributing
 You can share your experience, new design, ideas or questions on the [Poppy project forum](https://forum.poppy-project.org/).
 
+## Pictures
+![](images/rpi_pixl.jpg)
+![](images/pixl_battery.jpg)
+
 ## Licence
 This board is licenced under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) (CC-BY-SA) licence.
