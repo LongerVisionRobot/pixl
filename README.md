@@ -1,6 +1,6 @@
 # pixl
 Pixl is a small board made for using Dynamixel XL-320 motors on a Raspberry Pi.
-The board is made with [circuitmaker](circuitmaker.com), a free EDA software tool from Altium with community features.
+The board is made with [circuitmaker](circuitmaker.com), a EDA software tool from Altium available as freeware for any kind of projects.
 
 To modify the board or export the last production files, [follow this link](http://workspace.circuitmaker.com/Projects/78A4FE38-92CD-4DAB-9B5A-15E9EAD0FAC1). An account on CircuitMaker is needed to download documents.
 
