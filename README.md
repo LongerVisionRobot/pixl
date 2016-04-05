@@ -1,10 +1,12 @@
 # Pixl
-Pixl is a small board made for using Dynamixel XL-320 motors on a Raspberry Pi.
-The board is made with [circuitmaker](http://www.circuitmaker.com), a EDA software tool from Altium available as freeware for any kind of projects.
+Pixl is a small board made for using Dynamixel XL-320 motors on a Raspberry Pi made for the robot [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr).
 
-To modify the board or export the last production files, [follow this link](http://workspace.circuitmaker.com/Projects/78A4FE38-92CD-4DAB-9B5A-15E9EAD0FAC1). An account on CircuitMaker is needed to download documents.
+This GitHub repository is only made for keeping a copy of productions files without having to [log in circuit maker](#contributing).
 
-This GitHub repository is only made for keeping a copy of productions files without having to log in circuit maker.
+## How to get one
+* It will be available for purchaise in Mai 2016 at [Generation robot](http://www.generationrobots.com/fr/279-poppy).
+* The release contain production files, you can send them to a PCB (with components mounting) seller. We used to buy it from [Synergy](http://www.reseau-gesat.com/Gesat/Gironde,33/Pessac,12890/entreprise-adaptee-synergy,e566/) near Bordeaux.
+
 
 ## Features
 * It powers up the Raspberry Pi from the 7,5V motor power with an embedded voltage converter.
@@ -26,6 +28,10 @@ The Pixl board plugs into the pins 1 to 10 off the raspberry pi, please make sur
 This board has been designed to drive 6 motors, **we don't provide the proper functioning of the communication protocol with more than 6 devices**.
 
 ## Contributing
+The board is made with [circuitmaker](http://www.circuitmaker.com), a EDA software tool from Altium available as freeware for any kind of projects.
+
+To modify the board or export the last production files, [follow this link](http://workspace.circuitmaker.com/Projects/78A4FE38-92CD-4DAB-9B5A-15E9EAD0FAC1). An account on CircuitMaker is needed to download documents.
+
 You can share your experience, new design, ideas or questions on the [Poppy project forum](https://forum.poppy-project.org/).
 
 ## Licence
