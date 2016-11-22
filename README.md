@@ -1,10 +1,10 @@
 # Pixl
-Pixl is a small board made for using Dynamixel XL-320 motors on a Raspberry Pi made for the robot [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr).
+Pixl is a tiny board used to create low cost robots based on Raspberry Pi board and Dynamixel XL320 motors. It is used on the [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr) robot.
 
 This GitHub repository is only made for keeping a copy of productions files without having to [log in circuit maker](#contributing).
 
 ## How to get one
-* It will be available for purchaise in Mai 2016 at [Generation robot](http://www.generationrobots.com/fr/279-poppy).
+* You can purchaise one at [Generation Robots](https://www.generationrobots.com/fr/402420-carte-pixl.html) website.
 * The release contain production files, you can send them to a PCB (with components mounting) seller. We used to buy it from [Synergy](http://www.reseau-gesat.com/Gesat/Gironde,33/Pessac,12890/entreprise-adaptee-synergy,e566/) near Bordeaux.
 
 
@@ -14,7 +14,7 @@ This GitHub repository is only made for keeping a copy of productions files with
 * You can power up your motors and the Raspberry Pi from a 7.5V as well as with Robotis batteries (LBB-040).
 
 ## Mounting
-The Pixl board plugs into the pins 1 to 10 off the raspberry pi, please make sure the hole of the Pixl board is aligned to that of the raspberry pi, like that :
+The Pixl board plugs into the pins 1 to 10 off the Raspberry Pi, please make sure the hole of the Pixl board is aligned to that of the raspberry pi, like that :
 ![](images/rpi_pixl.jpg)
  To power up your system you have the black Jack DC plug as power input (2,1 mm, 5,5 mm) designed for an external power supply able to output 7.5V at least 2A ([ECP-15-7.5E](http://fr.rs-online.com/web/p/alimentations-enfichables/7262814/?searchTerm=7262814&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B367D247C5E5C647B377D247C5E5C647B31307D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D37323632383134267374613D3732363238313426)), or you can plug your LBB-040 battery holder on the twice two pins connector like that :
 ![](images/pixl_battery.jpg)
