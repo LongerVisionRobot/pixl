@@ -4,8 +4,8 @@ Pixl is a tiny board used to create low cost robots based on Raspberry Pi board 
 This GitHub repository is only made for keeping a copy of productions files without having to [log in circuit maker](#contributing).
 
 ## How to get one
-* You can purchaise one at [Generation Robots](https://www.generationrobots.com/fr/402420-carte-pixl.html) website.
-* The release contain production files, you can send them to a PCB (with components mounting) seller. We used to buy it from [Synergy](http://www.reseau-gesat.com/Gesat/Gironde,33/Pessac,12890/entreprise-adaptee-synergy,e566/) near Bordeaux.
+* You can purchase one at [Generation Robots](https://www.generationrobots.com/fr/402420-carte-pixl.html) website.
+* The release contains production files, you can send them to a PCB (with components mounting) seller. We used to buy it from [Synergy](http://www.reseau-gesat.com/Gesat/Gironde,33/Pessac,12890/entreprise-adaptee-synergy,e566/) near Bordeaux.
 
 
 ## Features
