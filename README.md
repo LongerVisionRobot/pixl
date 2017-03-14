@@ -25,7 +25,7 @@ The Pixl board plugs into the pins 1 to 10 off the Raspberry Pi, please make sur
 * **Do not reload batteries plugged on the Pixl board, please unmount it before recharging.**
 
 ## Limitation
-This board has been designed to drive 6 motors, **we don't provide the proper functioning of the communication protocol with more than 6 devices**.
+This board has been designed to drive 6 motors, some people use it to drive up to 24 motors but it may increase the number of communication errors.
 
 ## Contributing
 The board is made with [circuitmaker](http://www.circuitmaker.com), a EDA software tool from Altium available as freeware for any kind of projects.
